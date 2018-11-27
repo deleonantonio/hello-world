@@ -8,5 +8,20 @@
 <body>
 		<h1>Hello World!</h1>
 		<img src='images/fireworks.jpg'>
+
+		<p>
+			<?php
+
+		// variable practice
+		$myvar = "THIS IS MY VARIABLE";
+		$number = 3;
+		$number2 = 5;
+		$sum = $number + $number2;
+
+		echo "The sum of " . $number . " and " .$number2 ." is " . $sum . '.';
+		?>
+		</p>
+
+
 </body>
 </html>

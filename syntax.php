@@ -1,5 +1,4 @@
 <?php
-// variables
 $temperature = 75;
 $scale = 'F';
 $location = "Cambrige";
